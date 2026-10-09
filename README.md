@@ -68,6 +68,7 @@ The detailed description of the entire process of data acquisition, training and
 
 ## 📚Citations
 If you use this tool, please acknowledge the foundational resources:
+- Babajide, A.A., Mordecai, J., Gyasi, K. et al. PredKlebAMR: A machine learning framework prioritizing sensitivity in Klebsiella pneumoniae resistance profiling. Sci Rep (2026). https://doi.org/10.1038/s41598-026-74806-8
 - **BV-BRC:** Olson RD, et al. (2023). "BV-BRC: The Bacterial and Viral Bioinformatics Resource Center." Nucleic Acids Research, 51(D1).
 - **Kleborate:** Lam MMC, et al. (2021). "A genomic surveillance framework and tool for Klebsiella pneumoniae and its complex." Nature Communications, 12(1).
 - **Ranger:** Wright MN, Ziegler A. (2017). "ranger: A Fast Implementation of Random Forests." Journal of Statistical Software, 77(1).
